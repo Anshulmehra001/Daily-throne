@@ -1,0 +1,18 @@
+{
+  "name": "daily-throne",
+  "version": "0.0.0",
+  "description": "The Daily Throne - A social experiment game",
+  "main": "src/main.tsx",
+  "scripts": {
+    "dev": "devvit playtest",
+    "upload": "devvit upload"
+  },
+  "devDependencies": {
+    "@devvit/public-api": "0.12.12",
+    "@devvit/protos": "0.12.12",
+    "devvit": "0.12.12"
+  },
+  "type": "module",
+  "private": true,
+  "license": "BSD-3-Clause"
+}
